@@ -4,4 +4,4 @@ Hi, this is Crannbog.
 
 You'll find a lot of things here, like...
 
-- out [code manifest](CodeManifest.md)
+- our [code manifest](CodeManifest.md)
